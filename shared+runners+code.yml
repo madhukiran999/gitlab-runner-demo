@@ -1,0 +1,5 @@
+windows-info:
+    tags:
+        - windows   # Specifying a desired shared runner from a pool of available Runners
+    script:
+        - systeminfo
